@@ -1,0 +1,1 @@
+from .yandex_music_service import YandexMusicService
